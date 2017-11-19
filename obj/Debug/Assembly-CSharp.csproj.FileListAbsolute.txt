@@ -1,0 +1,134 @@
+C:\Users\Pc\Desktop\Proyecto DÑ-PG\Proyecto DÑ-PG\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Pc\Desktop\Proyecto DÑ-PG\Proyecto DÑ-PG\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Pc\Desktop\Proyecto DÑ-PG\Proyecto DÑ-PG\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Pc\Desktop\Proyecto DÑ-PG\Proyecto DÑ-PG\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Pc\Desktop\Proyecto DÑ-PG\Proyecto DÑ-PG\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Pc\Desktop\Proyecto DÑ-PG\Proyecto DÑ-PG\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Pc\Desktop\Proyecto DÑ-PG\Proyecto DÑ-PG\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Pc\Desktop\Proyecto DÑ-PG\Proyecto DÑ-PG\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Pc\Desktop\Proyecto DÑ-PG\Proyecto DÑ-PG\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Pc\Desktop\Proyecto DÑ-PG\Proyecto DÑ-PG\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Pc\Desktop\Proyecto DÑ-PG\Proyecto DÑ-PG\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Pc\Desktop\Proyecto DÑ-PG\Proyecto DÑ-PG\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Pc\Desktop\Proyecto DÑ-PG\Proyecto DÑ-PG\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Pc\Desktop\Proyecto DÑ-PG\Proyecto DÑ-PG\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Pc\Desktop\Proyecto DÑ-PG\Proyecto DÑ-PG\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Pc\Desktop\Proyecto DÑ-PG\Proyecto DÑ-PG\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\Pc\Desktop\Proyecto DÑ-PG\Proyecto DÑ-PG\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Pc\Desktop\Proyecto DÑ-PG\Proyecto DÑ-PG\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Pc\Desktop\Proyecto DÑ-PG\Proyecto DÑ-PG\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Pc\Desktop\Proyecto DÑ-PG\Proyecto DÑ-PG\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Pc\Desktop\Proyecto DÑ-PG\Proyecto DÑ-PG\obj\Debug\Assembly-CSharp.dll
+C:\Users\Pc\Desktop\Proyecto DÑ-PG\Proyecto DÑ-PG\obj\Debug\Assembly-CSharp.pdb
+C:\Users\YeeRMaaN\Desktop\Proyecto DÑ-PG1711\Proyecto DÑ-PG\Proyecto DÑ-PG\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\YeeRMaaN\Desktop\Proyecto DÑ-PG1711\Proyecto DÑ-PG\Proyecto DÑ-PG\obj\Debug\Assembly-CSharp.dll
+C:\Users\YeeRMaaN\Desktop\Proyecto DÑ-PG1711\Proyecto DÑ-PG\Proyecto DÑ-PG\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\YeeRMaaN\Desktop\Proyecto DÑ-PG1711\Proyecto DÑ-PG\Proyecto DÑ-PG\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\YeeRMaaN\Desktop\Proyecto DÑ-PG1711\Proyecto DÑ-PG\Proyecto DÑ-PG\Temp\bin\Debug\UnityEditor.dll
+C:\Users\YeeRMaaN\Desktop\Proyecto DÑ-PG1711\Proyecto DÑ-PG\Proyecto DÑ-PG\Temp\bin\Debug\UnityEngine.dll
+C:\Users\YeeRMaaN\Desktop\Proyecto DÑ-PG1711\Proyecto DÑ-PG\Proyecto DÑ-PG\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\YeeRMaaN\Desktop\Proyecto DÑ-PG1711\Proyecto DÑ-PG\Proyecto DÑ-PG\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\YeeRMaaN\Desktop\Proyecto DÑ-PG1711\Proyecto DÑ-PG\Proyecto DÑ-PG\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\YeeRMaaN\Desktop\Proyecto DÑ-PG1711\Proyecto DÑ-PG\Proyecto DÑ-PG\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\YeeRMaaN\Desktop\Proyecto DÑ-PG1711\Proyecto DÑ-PG\Proyecto DÑ-PG\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\YeeRMaaN\Desktop\Proyecto DÑ-PG1711\Proyecto DÑ-PG\Proyecto DÑ-PG\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\YeeRMaaN\Desktop\Proyecto DÑ-PG1711\Proyecto DÑ-PG\Proyecto DÑ-PG\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\YeeRMaaN\Desktop\Proyecto DÑ-PG1711\Proyecto DÑ-PG\Proyecto DÑ-PG\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\YeeRMaaN\Desktop\Proyecto DÑ-PG1711\Proyecto DÑ-PG\Proyecto DÑ-PG\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\YeeRMaaN\Desktop\Proyecto DÑ-PG1711\Proyecto DÑ-PG\Proyecto DÑ-PG\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\YeeRMaaN\Desktop\Proyecto DÑ-PG1711\Proyecto DÑ-PG\Proyecto DÑ-PG\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\YeeRMaaN\Desktop\Proyecto DÑ-PG1711\Proyecto DÑ-PG\Proyecto DÑ-PG\Temp\bin\Debug\UnityEngine.xml
+C:\Users\YeeRMaaN\Desktop\Proyecto DÑ-PG1711\Proyecto DÑ-PG\Proyecto DÑ-PG\Temp\bin\Debug\UnityEditor.xml
+C:\Users\YeeRMaaN\Desktop\Proyecto DÑ-PG1711\Proyecto DÑ-PG\Proyecto DÑ-PG\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\YeeRMaaN\Desktop\Proyecto DÑ-PG1711\Proyecto DÑ-PG\Proyecto DÑ-PG\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\YeeRMaaN\Desktop\Proyecto DÑ-PG1711\Proyecto DÑ-PG\Proyecto DÑ-PG\obj\Debug\Assembly-CSharp.pdb
+C:\Users\YeeRMaaN\Desktop\Proyecto DÑ-PG\Proyecto DÑ-PG\Proyecto DÑ-PG\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\YeeRMaaN\Desktop\Proyecto DÑ-PG\Proyecto DÑ-PG\Proyecto DÑ-PG\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\YeeRMaaN\Desktop\Proyecto DÑ-PG\Proyecto DÑ-PG\Proyecto DÑ-PG\Temp\bin\Debug\UnityEditor.dll
+C:\Users\YeeRMaaN\Desktop\Proyecto DÑ-PG\Proyecto DÑ-PG\Proyecto DÑ-PG\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\YeeRMaaN\Desktop\Proyecto DÑ-PG\Proyecto DÑ-PG\Proyecto DÑ-PG\Temp\bin\Debug\UnityEngine.dll
+C:\Users\YeeRMaaN\Desktop\Proyecto DÑ-PG\Proyecto DÑ-PG\Proyecto DÑ-PG\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\YeeRMaaN\Desktop\Proyecto DÑ-PG\Proyecto DÑ-PG\Proyecto DÑ-PG\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\YeeRMaaN\Desktop\Proyecto DÑ-PG\Proyecto DÑ-PG\Proyecto DÑ-PG\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.dll
+C:\Users\YeeRMaaN\Desktop\Proyecto DÑ-PG\Proyecto DÑ-PG\Proyecto DÑ-PG\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\YeeRMaaN\Desktop\Proyecto DÑ-PG\Proyecto DÑ-PG\Proyecto DÑ-PG\Temp\bin\Debug\UnityEngine.VR.dll
+C:\Users\YeeRMaaN\Desktop\Proyecto DÑ-PG\Proyecto DÑ-PG\Proyecto DÑ-PG\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\YeeRMaaN\Desktop\Proyecto DÑ-PG\Proyecto DÑ-PG\Proyecto DÑ-PG\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\YeeRMaaN\Desktop\Proyecto DÑ-PG\Proyecto DÑ-PG\Proyecto DÑ-PG\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\YeeRMaaN\Desktop\Proyecto DÑ-PG\Proyecto DÑ-PG\Proyecto DÑ-PG\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\YeeRMaaN\Desktop\Proyecto DÑ-PG\Proyecto DÑ-PG\Proyecto DÑ-PG\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\YeeRMaaN\Desktop\Proyecto DÑ-PG\Proyecto DÑ-PG\Proyecto DÑ-PG\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\YeeRMaaN\Desktop\Proyecto DÑ-PG\Proyecto DÑ-PG\Proyecto DÑ-PG\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\YeeRMaaN\Desktop\Proyecto DÑ-PG\Proyecto DÑ-PG\Proyecto DÑ-PG\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\YeeRMaaN\Desktop\Proyecto DÑ-PG\Proyecto DÑ-PG\Proyecto DÑ-PG\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\YeeRMaaN\Desktop\Proyecto DÑ-PG\Proyecto DÑ-PG\Proyecto DÑ-PG\Temp\bin\Debug\UnityEngine.xml
+C:\Users\YeeRMaaN\Desktop\Proyecto DÑ-PG\Proyecto DÑ-PG\Proyecto DÑ-PG\Temp\bin\Debug\UnityEditor.xml
+C:\Users\YeeRMaaN\Desktop\Proyecto DÑ-PG\Proyecto DÑ-PG\Proyecto DÑ-PG\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\YeeRMaaN\Desktop\Proyecto DÑ-PG\Proyecto DÑ-PG\Proyecto DÑ-PG\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\YeeRMaaN\Desktop\Proyecto DÑ-PG\Proyecto DÑ-PG\Proyecto DÑ-PG\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.xml
+C:\Users\YeeRMaaN\Desktop\Proyecto DÑ-PG\Proyecto DÑ-PG\Proyecto DÑ-PG\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\YeeRMaaN\Desktop\Proyecto DÑ-PG\Proyecto DÑ-PG\Proyecto DÑ-PG\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\YeeRMaaN\Desktop\Proyecto DÑ-PG\Proyecto DÑ-PG\Proyecto DÑ-PG\Temp\bin\Debug\UnityEngine.VR.xml
+C:\Users\YeeRMaaN\Desktop\Proyecto DÑ-PG\Proyecto DÑ-PG\Proyecto DÑ-PG\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\YeeRMaaN\Desktop\Proyecto DÑ-PG\Proyecto DÑ-PG\Proyecto DÑ-PG\obj\Debug\Assembly-CSharp.dll
+C:\Users\YeeRMaaN\Desktop\Proyecto DÑ-PG\Proyecto DÑ-PG\Proyecto DÑ-PG\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Pc\Downloads\Proyecto DÑ-PG1412(1)\Proyecto DÑ-PG\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Pc\Downloads\Proyecto DÑ-PG1412(1)\Proyecto DÑ-PG\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Pc\Downloads\Proyecto DÑ-PG1412(1)\Proyecto DÑ-PG\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Pc\Downloads\Proyecto DÑ-PG1412(1)\Proyecto DÑ-PG\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\Pc\Downloads\Proyecto DÑ-PG1412(1)\Proyecto DÑ-PG\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Pc\Downloads\Proyecto DÑ-PG1412(1)\Proyecto DÑ-PG\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\Pc\Downloads\Proyecto DÑ-PG1412(1)\Proyecto DÑ-PG\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Pc\Downloads\Proyecto DÑ-PG1412(1)\Proyecto DÑ-PG\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.dll
+C:\Users\Pc\Downloads\Proyecto DÑ-PG1412(1)\Proyecto DÑ-PG\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Pc\Downloads\Proyecto DÑ-PG1412(1)\Proyecto DÑ-PG\Temp\bin\Debug\UnityEngine.VR.dll
+C:\Users\Pc\Downloads\Proyecto DÑ-PG1412(1)\Proyecto DÑ-PG\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Pc\Downloads\Proyecto DÑ-PG1412(1)\Proyecto DÑ-PG\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Pc\Downloads\Proyecto DÑ-PG1412(1)\Proyecto DÑ-PG\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Pc\Downloads\Proyecto DÑ-PG1412(1)\Proyecto DÑ-PG\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Pc\Downloads\Proyecto DÑ-PG1412(1)\Proyecto DÑ-PG\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Pc\Downloads\Proyecto DÑ-PG1412(1)\Proyecto DÑ-PG\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Pc\Downloads\Proyecto DÑ-PG1412(1)\Proyecto DÑ-PG\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Pc\Downloads\Proyecto DÑ-PG1412(1)\Proyecto DÑ-PG\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Pc\Downloads\Proyecto DÑ-PG1412(1)\Proyecto DÑ-PG\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\Pc\Downloads\Proyecto DÑ-PG1412(1)\Proyecto DÑ-PG\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Pc\Downloads\Proyecto DÑ-PG1412(1)\Proyecto DÑ-PG\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Pc\Downloads\Proyecto DÑ-PG1412(1)\Proyecto DÑ-PG\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Pc\Downloads\Proyecto DÑ-PG1412(1)\Proyecto DÑ-PG\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Pc\Downloads\Proyecto DÑ-PG1412(1)\Proyecto DÑ-PG\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.xml
+C:\Users\Pc\Downloads\Proyecto DÑ-PG1412(1)\Proyecto DÑ-PG\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\Pc\Downloads\Proyecto DÑ-PG1412(1)\Proyecto DÑ-PG\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\Pc\Downloads\Proyecto DÑ-PG1412(1)\Proyecto DÑ-PG\Temp\bin\Debug\UnityEngine.VR.xml
+C:\Users\Pc\Downloads\Proyecto DÑ-PG1412(1)\Proyecto DÑ-PG\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Pc\Downloads\Proyecto DÑ-PG1412(1)\Proyecto DÑ-PG\obj\Debug\Assembly-CSharp.dll
+C:\Users\Pc\Downloads\Proyecto DÑ-PG1412(1)\Proyecto DÑ-PG\obj\Debug\Assembly-CSharp.pdb
+C:\Users\YeeRMaaN\Desktop\Proyecto DÑ-PG1512\Proyecto DÑ-PG\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\YeeRMaaN\Desktop\Proyecto DÑ-PG1512\Proyecto DÑ-PG\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\YeeRMaaN\Desktop\Proyecto DÑ-PG1512\Proyecto DÑ-PG\Temp\bin\Debug\UnityEditor.dll
+C:\Users\YeeRMaaN\Desktop\Proyecto DÑ-PG1512\Proyecto DÑ-PG\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\YeeRMaaN\Desktop\Proyecto DÑ-PG1512\Proyecto DÑ-PG\Temp\bin\Debug\UnityEngine.dll
+C:\Users\YeeRMaaN\Desktop\Proyecto DÑ-PG1512\Proyecto DÑ-PG\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\YeeRMaaN\Desktop\Proyecto DÑ-PG1512\Proyecto DÑ-PG\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\YeeRMaaN\Desktop\Proyecto DÑ-PG1512\Proyecto DÑ-PG\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.dll
+C:\Users\YeeRMaaN\Desktop\Proyecto DÑ-PG1512\Proyecto DÑ-PG\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\YeeRMaaN\Desktop\Proyecto DÑ-PG1512\Proyecto DÑ-PG\Temp\bin\Debug\UnityEngine.VR.dll
+C:\Users\YeeRMaaN\Desktop\Proyecto DÑ-PG1512\Proyecto DÑ-PG\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\YeeRMaaN\Desktop\Proyecto DÑ-PG1512\Proyecto DÑ-PG\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\YeeRMaaN\Desktop\Proyecto DÑ-PG1512\Proyecto DÑ-PG\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\YeeRMaaN\Desktop\Proyecto DÑ-PG1512\Proyecto DÑ-PG\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\YeeRMaaN\Desktop\Proyecto DÑ-PG1512\Proyecto DÑ-PG\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\YeeRMaaN\Desktop\Proyecto DÑ-PG1512\Proyecto DÑ-PG\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\YeeRMaaN\Desktop\Proyecto DÑ-PG1512\Proyecto DÑ-PG\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\YeeRMaaN\Desktop\Proyecto DÑ-PG1512\Proyecto DÑ-PG\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\YeeRMaaN\Desktop\Proyecto DÑ-PG1512\Proyecto DÑ-PG\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\YeeRMaaN\Desktop\Proyecto DÑ-PG1512\Proyecto DÑ-PG\Temp\bin\Debug\UnityEngine.xml
+C:\Users\YeeRMaaN\Desktop\Proyecto DÑ-PG1512\Proyecto DÑ-PG\Temp\bin\Debug\UnityEditor.xml
+C:\Users\YeeRMaaN\Desktop\Proyecto DÑ-PG1512\Proyecto DÑ-PG\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\YeeRMaaN\Desktop\Proyecto DÑ-PG1512\Proyecto DÑ-PG\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\YeeRMaaN\Desktop\Proyecto DÑ-PG1512\Proyecto DÑ-PG\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.xml
+C:\Users\YeeRMaaN\Desktop\Proyecto DÑ-PG1512\Proyecto DÑ-PG\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\YeeRMaaN\Desktop\Proyecto DÑ-PG1512\Proyecto DÑ-PG\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\YeeRMaaN\Desktop\Proyecto DÑ-PG1512\Proyecto DÑ-PG\Temp\bin\Debug\UnityEngine.VR.xml
+C:\Users\YeeRMaaN\Desktop\Proyecto DÑ-PG1512\Proyecto DÑ-PG\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\YeeRMaaN\Desktop\Proyecto DÑ-PG1512\Proyecto DÑ-PG\obj\Debug\Assembly-CSharp.dll
+C:\Users\YeeRMaaN\Desktop\Proyecto DÑ-PG1512\Proyecto DÑ-PG\obj\Debug\Assembly-CSharp.pdb
