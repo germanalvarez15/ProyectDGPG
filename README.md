@@ -1,6 +1,8 @@
 # ProyectDGPG
 
-This is a proyect that I made as a final job for the institute where I learnt game programming in 2015.
+UNITY 3D C#
+
+This is a proyect that I made as a final job for the institute where I learnt game programming in 2016.
 
 It´s a 3D shooter game, in which you have to kill all zombies and collect all the items before call for help.
 
